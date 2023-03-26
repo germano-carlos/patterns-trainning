@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Factory.Interfaces;
+﻿namespace ConsoleApp1.Factory.Example1.Interfaces;
 
 public interface ITransporte
 {

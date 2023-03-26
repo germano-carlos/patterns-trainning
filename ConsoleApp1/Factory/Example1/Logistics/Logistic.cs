@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.Factory.Interfaces;
+﻿using ConsoleApp1.Factory.Example1.Interfaces;
 
-namespace ConsoleApp1.Factory.Logistics;
+namespace ConsoleApp1.Factory.Example1.Logistics;
 
 public abstract class Logistic
 {

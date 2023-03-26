@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.Factory.Interfaces;
+﻿using ConsoleApp1.Factory.Example1.Interfaces;
 
-namespace ConsoleApp1.Factory.Entities;
+namespace ConsoleApp1.Factory.Example1.Entities;
 
 public class Truck : ITransporte
 {
